@@ -5,6 +5,9 @@ class ISO3166::Country
   Names = Data.map {|k,v| [v['name'],k]}.sort
   NameIndex = Hash[*Names.flatten]
 
+  Alpha3_Names = Data.map {|k,v| [v['name'], v['alpha3']]}.sort
+  Alpha3_NameIndex = Hash[*Alpha3_Names.flatten]
+
   AttrReaders = [
     :number,
     :alpha2,

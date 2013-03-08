@@ -1,5 +1,5 @@
---- 
-AD: 
+---
+AD:
   alpha2: AD
   alpha3: AND
   country_code: "376"
@@ -9,12 +9,12 @@ AD:
   latitude: "42 30 N"
   longitude: "1 30 E"
   name: Andorra
-  names: 
+  names:
     - Andorre
     - Andorra
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
     - 8
@@ -26,7 +26,7 @@ AD:
   un_locode: AD
   languages:
     - ca
-AE: 
+AE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -41,14 +41,14 @@ AE:
   latitude: "24 00 N"
   longitude: "54 00 E"
   name: "United Arab Emirates"
-  names: 
+  names:
     - "United Arab Emirates"
     - "Vereinigte Arabische Emirate"
     - "Émirats Arabes Unis"
     - "Emiratos Árabes Unidos"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -59,7 +59,7 @@ AE:
   un_locode: AE
   languages:
     - ar
-AF: 
+AF:
   alpha2: AF
   alpha3: AFG
   country_code: "93"
@@ -69,12 +69,12 @@ AF:
   latitude: "33 00 N"
   longitude: "65 00 E"
   name: Afghanistan
-  names: 
+  names:
     - Afghanistan
     - Afganistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -96,14 +96,14 @@ AG:
   latitude: "17 03 N"
   longitude: "61 48 W"
   name: "Antigua and Barbuda"
-  names: 
+  names:
     - "Antigua and Barbuda"
     - "Antigua und Barbuda"
     - "Antigua et Barbuda"
     - "Antigua y Barbuda"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: 028
@@ -112,21 +112,21 @@ AG:
   un_locode: AG
   languages:
     - en
-AI: 
+AI:
   alpha2: AI
   alpha3: AIA
   country_code: "1"
   currency: XCD
   international_prefix: "011"
-  ioc: 
+  ioc:
   latitude: "18 15 N"
   longitude: "63 10 W"
   name: Anguilla
-  names: 
+  names:
     - Anguilla
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "660"
@@ -135,7 +135,7 @@ AI:
   un_locode: AI
   languages:
     - en
-AL: 
+AL:
   alpha2: AL
   alpha3: ALB
   country_code: "355"
@@ -145,13 +145,13 @@ AL:
   latitude: "41 00 N"
   longitude: "20 00 E"
   name: Albania
-  names: 
+  names:
     - Albania
     - Albanien
     - Albanie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -162,7 +162,7 @@ AL:
   un_locode: AL
   languages:
     - sq
-AM: 
+AM:
   alpha2: AM
   alpha3: ARM
   country_code: "374"
@@ -172,13 +172,13 @@ AM:
   latitude: "40 00 N"
   longitude: "45 00 E"
   name: Armenia
-  names: 
+  names:
     - Armenia
     - Armenien
     - Arménie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "8"
   number: "051"
@@ -188,7 +188,7 @@ AM:
   languages:
     - hy
     - ru
-AN: 
+AN:
   alpha2: AN
   alpha3: ANT
   country_code: "599"
@@ -198,14 +198,14 @@ AN:
   latitude: ""
   longitude: ""
   name: "Netherlands Antilles"
-  names: 
+  names:
     - "Netherlands Antilles"
     - "Niederländische Antillen"
     - "Antilles néerlandaises"
     - "Antillas Holandesas"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: "530"
@@ -225,11 +225,11 @@ AO:
   latitude: "12 30 S"
   longitude: "18 30 E"
   name: Angola
-  names: 
+  names:
     - Angola
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "024"
@@ -238,17 +238,17 @@ AO:
   un_locode: AO
   languages:
     - pt
-AQ: 
+AQ:
   alpha2: AQ
   alpha3: ATA
   country_code: "672"
   currency: ~
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "90 00 S"
   longitude: "0 00 E"
   name: Antarctica
-  names: 
+  names:
     - Antarctica
     - Antarktis
     - Antarctique
@@ -261,7 +261,7 @@ AQ:
   subregion: ""
   un_locode: AQ
   languages: []
-AR: 
+AR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -277,13 +277,13 @@ AR:
   latitude: "34 00 S"
   longitude: "64 00 W"
   name: Argentina
-  names: 
+  names:
     - Argentina
     - Argentinien
     - Argentine
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -294,7 +294,7 @@ AR:
   languages:
     - es
     - gn
-AS: 
+AS:
   alpha2: AS
   alpha3: ASM
   country_code: "1"
@@ -304,14 +304,14 @@ AS:
   latitude: "14 20 S"
   longitude: "170 00 W"
   name: "American Samoa"
-  names: 
+  names:
     - "American Samoa"
     - Amerikanisch-Samoa
     - "Samoa américaines"
     - "Samoa Americana"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "016"
@@ -321,7 +321,7 @@ AS:
   languages:
     - en
     - sm
-AT: 
+AT:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -336,15 +336,15 @@ AT:
   latitude: "47 20 N"
   longitude: "13 20 E"
   name: Austria
-  names: 
+  names:
     - Österreich
     - Autriche
     - Austria
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 1
     - 2
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -374,13 +374,13 @@ AU:
   latitude: "27 00 S"
   longitude: "133 00 E"
   name: Australia
-  names: 
+  names:
     - Australien
     - Australie
     - Australia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "036"
@@ -389,7 +389,7 @@ AU:
   un_locode: AU
   languages:
     - en
-AW: 
+AW:
   alpha2: AW
   alpha3: ABW
   country_code: "297"
@@ -399,11 +399,11 @@ AW:
   latitude: "12 30 N"
   longitude: "69 58 W"
   name: Aruba
-  names: 
+  names:
     - Aruba
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "533"
@@ -418,11 +418,11 @@ AX:
   country_code: "358"
   currency: ~
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: "Åland Islands"
-  names: 
+  names:
     - "Åland Islands"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -433,7 +433,7 @@ AX:
   un_locode:
   languages:
     - sv
-AZ: 
+AZ:
   alpha2: AZ
   alpha3: AZE
   country_code: "994"
@@ -443,14 +443,14 @@ AZ:
   latitude: "40 30 N"
   longitude: "47 30 E"
   name: Azerbaijan
-  names: 
+  names:
     - Azerbaijan
     - Aserbaidschan
     - Azerbaïdjan
     - Azerbaiyán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "8"
@@ -461,7 +461,7 @@ AZ:
   languages:
     - az
     - hy
-BA: 
+BA:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -476,14 +476,14 @@ BA:
   latitude: "44 00 N"
   longitude: "18 00 E"
   name: "Bosnia and Herzegovina"
-  names: 
+  names:
     - "Bosnia and Herzegovina"
     - "Bosnien und Herzegowina"
     - "Bosnie et Herzégovine"
     - "Bosnia y Herzegovina"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "070"
@@ -494,7 +494,7 @@ BA:
     - bs
     - hr
     - sr
-BB: 
+BB:
   alpha2: BB
   alpha3: BRB
   country_code: "1"
@@ -504,12 +504,12 @@ BB:
   latitude: "13 10 N"
   longitude: "59 32 W"
   name: Barbados
-  names: 
+  names:
     - Barbade
     - Barbados
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "052"
@@ -518,7 +518,7 @@ BB:
   un_locode: BB
   languages:
     - en
-BD: 
+BD:
   alpha2: BD
   alpha3: BGD
   country_code: "880"
@@ -528,12 +528,12 @@ BD:
   latitude: "24 00 N"
   longitude: "90 00 E"
   name: Bangladesh
-  names: 
+  names:
     - Bangladesh
     - Bangladesch
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "050"
@@ -542,7 +542,7 @@ BD:
   un_locode: BD
   languages:
     - bn
-BE: 
+BE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -557,14 +557,14 @@ BE:
   latitude: "50 50 N"
   longitude: "4 00 E"
   name: Belgium
-  names: 
+  names:
     - Belgium
     - Belgien
     - Belgique
     - Bélgica
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -576,7 +576,7 @@ BE:
     - nl
     - fr
     - de
-BF: 
+BF:
   alpha2: BF
   alpha3: BFA
   country_code: "226"
@@ -586,11 +586,11 @@ BF:
   latitude: "13 00 N"
   longitude: "2 00 W"
   name: "Burkina Faso"
-  names: 
+  names:
     - "Burkina Faso"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "854"
@@ -615,13 +615,13 @@ BG:
   latitude: "43 00 N"
   longitude: "25 00 E"
   name: Bulgaria
-  names: 
+  names:
     - Bulgaria
     - Bulgarien
     - Bulgarie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10
@@ -632,7 +632,7 @@ BG:
   un_locode: BG
   languages:
     - bg
-BH: 
+BH:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -647,13 +647,13 @@ BH:
   latitude: "26 00 N"
   longitude: "50 33 E"
   name: Bahrain
-  names: 
+  names:
     - Bahrain
     - Bahreïn
     - Bahrein
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: 048
@@ -662,7 +662,7 @@ BH:
   un_locode: BH
   languages:
     - ar
-BI: 
+BI:
   alpha2: BI
   alpha3: BDI
   country_code: "257"
@@ -672,11 +672,11 @@ BI:
   latitude: "3 30 S"
   longitude: "30 00 E"
   name: Burundi
-  names: 
+  names:
     - Burundi
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "108"
@@ -686,7 +686,7 @@ BI:
   languages:
     - fr
     - rn
-BJ: 
+BJ:
   alpha2: BJ
   alpha3: BEN
   country_code: "229"
@@ -696,12 +696,12 @@ BJ:
   latitude: "9 30 N"
   longitude: "2 15 E"
   name: Benin
-  names: 
+  names:
     - Benin
     - Bénin
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "204"
@@ -710,17 +710,17 @@ BJ:
   un_locode: BJ
   languages:
     - fr
-BL: 
+BL:
   alpha2: BL
   alpha3: BLM
   country_code: "590"
   currency: ~
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "17 90 N"
   longitude: "62 85 W"
   name: "Saint Barthélemy"
-  names: 
+  names:
     - "Saint Barthélemy"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -731,7 +731,7 @@ BL:
   un_locode:
   languages:
     - fr
-BM: 
+BM:
   alpha2: BM
   alpha3: BMU
   country_code: "1"
@@ -741,13 +741,13 @@ BM:
   latitude: "32 20 N"
   longitude: "64 45 W"
   name: Bermuda
-  names: 
+  names:
     - Bermuda
     - Bermudes
     - Bermudas
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "060"
@@ -756,7 +756,7 @@ BM:
   un_locode: BM
   languages:
     - en
-BN: 
+BN:
   alpha2: BN
   alpha3: BRN
   country_code: "673"
@@ -766,11 +766,11 @@ BN:
   latitude: "4 30 N"
   longitude: "114 40 E"
   name: "Brunei Darussalam"
-  names: 
+  names:
     - Brunei
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: 096
@@ -779,7 +779,7 @@ BN:
   un_locode: BN
   languages:
     - ms
-BO: 
+BO:
   alpha2: BO
   alpha3: BOL
   country_code: "591"
@@ -789,13 +789,13 @@ BO:
   latitude: "17 00 S"
   longitude: "65 00 W"
   name: Bolivia
-  names: 
+  names:
     - Bolivia
     - Bolivien
     - Bolivie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "010"
   number: 068
@@ -806,7 +806,7 @@ BO:
     - es
     - ay
     - qu
-BR: 
+BR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -821,14 +821,14 @@ BR:
   latitude: "10 00 S"
   longitude: "55 00 W"
   name: Brazil
-  names: 
+  names:
     - Brazil
     - Brasilien
     - Brésil
     - Brasil
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "014"
   number: "076"
@@ -847,11 +847,11 @@ BS:
   latitude: "24 15 N"
   longitude: "76 00 W"
   name: Bahamas
-  names: 
+  names:
     - Bahamas
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "044"
@@ -860,7 +860,7 @@ BS:
   un_locode: BS
   languages:
     - en
-BT: 
+BT:
   alpha2: BT
   alpha3: BTN
   country_code: "975"
@@ -870,13 +870,13 @@ BT:
   latitude: "27 30 N"
   longitude: "90 30 E"
   name: Bhutan
-  names: 
+  names:
     - Bhutan
     - Bhoutan
     - Bután
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -886,17 +886,17 @@ BT:
   un_locode: BT
   languages:
     - dz
-BV: 
+BV:
   alpha2: BV
   alpha3: BVT
   country_code: ""
   currency: NOK
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "54 26 S"
   longitude: "3 24 E"
   name: "Bouvet Island"
-  names: 
+  names:
     - "Bouvet Island"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -916,11 +916,11 @@ BW:
   latitude: "22 00 S"
   longitude: "24 00 E"
   name: Botswana
-  names: 
+  names:
     - Botswana
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "072"
@@ -930,7 +930,7 @@ BW:
   languages:
     - en
     - tn
-BY: 
+BY:
   alpha2: BY
   alpha3: BLR
   country_code: "375"
@@ -940,14 +940,14 @@ BY:
   latitude: "53 00 N"
   longitude: "28 00 E"
   name: Belarus
-  names: 
+  names:
     - Belarus
     - Weißrussland
     - Biélorussie
     - Bielorrusia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "8"
   number: "112"
@@ -957,7 +957,7 @@ BY:
   languages:
     - be
     - ru
-BZ: 
+BZ:
   alpha2: BZ
   alpha3: BLZ
   country_code: "501"
@@ -967,12 +967,12 @@ BZ:
   latitude: "17 15 N"
   longitude: "88 45 W"
   name: Belize
-  names: 
+  names:
     - Belize
     - Belice
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: 084
@@ -982,7 +982,7 @@ BZ:
   languages:
     - en
     - es
-CA: 
+CA:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -997,13 +997,13 @@ CA:
   latitude: "60 00 N"
   longitude: "95 00 W"
   name: Canada
-  names: 
+  names:
     - Canada
     - Kanada
     - Canadá
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "124"
@@ -1013,21 +1013,21 @@ CA:
   languages:
     - en
     - fr
-CC: 
+CC:
   alpha2: CC
   alpha3: CCK
   country_code: "61"
   currency: AUD
   international_prefix: "0011"
-  ioc: 
+  ioc:
   latitude: "12 30 S"
   longitude: "96 50 E"
   name: "Cocos (Keeling) Islands"
-  names: 
+  names:
     - "Cocos (Keeling) Islands"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "166"
@@ -1036,7 +1036,7 @@ CC:
   un_locode: CC
   languages:
     - en
-CD: 
+CD:
   alpha2: CD
   alpha3: COD
   country_code: "243"
@@ -1046,14 +1046,14 @@ CD:
   latitude: "0 00 N"
   longitude: "25 00 E"
   name: "Congo, The Democratic Republic Of The"
-  names: 
+  names:
     - "Congo (Dem. Rep.)"
     - "Kongo (Dem. Rep.)"
     - "Congo (Rep. Dem.)"
     - "Congo (Rep. Dem.)"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "180"
@@ -1066,7 +1066,7 @@ CD:
     - kg
     - sw
     - lu
-CF: 
+CF:
   alpha2: CF
   alpha3: CAF
   country_code: "236"
@@ -1076,14 +1076,14 @@ CF:
   latitude: "7 00 N"
   longitude: "21 00 E"
   name: "Central African Republic"
-  names: 
+  names:
     - "Central African Republic"
     - "Zentralafrikanische Republik"
     - "République Centrafricaine"
     - "República Centroafricana"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "140"
@@ -1093,7 +1093,7 @@ CF:
   languages:
     - fr
     - sg
-CG: 
+CG:
   alpha2: CG
   alpha3: COG
   country_code: "242"
@@ -1103,12 +1103,12 @@ CG:
   latitude: "1 00 S"
   longitude: "15 00 E"
   name: Congo
-  names: 
+  names:
     - Congo
     - Kongo
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "178"
@@ -1133,14 +1133,14 @@ CH:
   latitude: "47 00 N"
   longitude: "8 00 E"
   name: Switzerland
-  names: 
+  names:
     - Switzerland
     - Schweiz
     - Suisse
     - Suiza
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -1162,11 +1162,11 @@ CI:
   latitude: "8 00 N"
   longitude: "5 00 W"
   name: "Côte D'Ivoire"
-  names: 
+  names:
     - "Côte D'Ivoire"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "384"
@@ -1175,7 +1175,7 @@ CI:
   un_locode: CI
   languages:
     - fr
-CK: 
+CK:
   alpha2: CK
   alpha3: COK
   country_code: "682"
@@ -1185,14 +1185,14 @@ CK:
   latitude: "21 14 S"
   longitude: "159 46 W"
   name: "Cook Islands"
-  names: 
+  names:
     - "Cook Islands"
     - Cookinseln
     - "Îles Cook"
     - "Islas Cook"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
   national_prefix: "00"
   number: "184"
@@ -1211,11 +1211,11 @@ CL:
   latitude: "30 00 S"
   longitude: "71 00 W"
   name: Chile
-  names: 
+  names:
     - Chile
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -1225,7 +1225,7 @@ CL:
   un_locode: CL
   languages:
     - es
-CM: 
+CM:
   alpha2: CM
   alpha3: CMR
   country_code: "237"
@@ -1235,14 +1235,14 @@ CM:
   latitude: "6 00 N"
   longitude: "12 00 E"
   name: Cameroon
-  names: 
+  names:
     - Cameroon
     - Kamerun
     - Cameroun
     - Camerún
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "120"
@@ -1252,7 +1252,7 @@ CM:
   languages:
     - en
     - fr
-CN: 
+CN:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1267,12 +1267,12 @@ CN:
   latitude: "35 00 N"
   longitude: "105 00 E"
   name: China
-  names: 
+  names:
     - China
     - Chine
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -1285,7 +1285,7 @@ CN:
   un_locode: CN
   languages:
     - zh
-CO: 
+CO:
   alpha2: CO
   alpha3: COL
   country_code: "57"
@@ -1295,13 +1295,13 @@ CO:
   latitude: "4 00 N"
   longitude: "72 00 W"
   name: Colombia
-  names: 
+  names:
     - Colombia
     - Kolumbien
     - Colombie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "05"
@@ -1311,7 +1311,7 @@ CO:
   un_locode: CO
   languages:
     - es
-CR: 
+CR:
   alpha2: CR
   alpha3: CRI
   country_code: "506"
@@ -1321,11 +1321,11 @@ CR:
   latitude: "10 00 N"
   longitude: "84 00 W"
   name: "Costa Rica"
-  names: 
+  names:
     - "Costa Rica"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "188"
@@ -1334,7 +1334,7 @@ CR:
   un_locode: CR
   languages:
     - es
-CU: 
+CU:
   alpha2: CU
   alpha3: CUB
   country_code: "53"
@@ -1344,12 +1344,12 @@ CU:
   latitude: "21 30 N"
   longitude: "80 00 W"
   name: Cuba
-  names: 
+  names:
     - Cuba
     - Kuba
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "192"
@@ -1358,7 +1358,7 @@ CU:
   un_locode: CU
   languages:
     - es
-CV: 
+CV:
   alpha2: CV
   alpha3: CPV
   country_code: "238"
@@ -1368,14 +1368,14 @@ CV:
   latitude: "16 00 N"
   longitude: "24 00 W"
   name: "Cape Verde"
-  names: 
+  names:
     - "Cape Verde"
     - "Kap Verde"
     - "Cap Vert"
     - "Cabo Verde"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "132"
@@ -1390,11 +1390,11 @@ CX:
   country_code: "61"
   currency: AUD
   international_prefix: "0011"
-  ioc: 
+  ioc:
   latitude: "10 30 S"
   longitude: "105 40 E"
   name: "Christmas Island"
-  names: 
+  names:
     - "Christmas Island"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -1407,7 +1407,7 @@ CX:
     - en
     - zh
     - ms
-CY: 
+CY:
   alpha2: CY
   alpha3: CYP
   country_code: "357"
@@ -1417,14 +1417,14 @@ CY:
   latitude: "35 00 N"
   longitude: "33 00 E"
   name: Cyprus
-  names: 
+  names:
     - Cyprus
     - Zypern
     - Chypre
     - Chipre
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "196"
@@ -1435,7 +1435,7 @@ CY:
     - el
     - tr
     - hy
-CZ: 
+CZ:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1450,14 +1450,14 @@ CZ:
   latitude: "49 45 N"
   longitude: "15 30 E"
   name: "Czech Republic"
-  names: 
+  names:
     - "Czech Republic"
     - "Tschechische Republik"
     - "République Tchèque"
     - "República Checa"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "203"
@@ -1467,7 +1467,7 @@ CZ:
   languages:
     - cs
     - sk
-DE: 
+DE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1482,15 +1482,15 @@ DE:
   latitude: "51 00 N"
   longitude: "9 00 E"
   name: Germany
-  names: 
+  names:
     - Germany
     - Deutschland
     - Allemagne
     - Alemania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -1503,7 +1503,7 @@ DE:
   un_locode: DE
   languages:
     - de
-DJ: 
+DJ:
   alpha2: DJ
   alpha3: DJI
   country_code: "253"
@@ -1513,11 +1513,11 @@ DJ:
   latitude: "11 30 N"
   longitude: "43 00 E"
   name: Djibouti
-  names: 
+  names:
     - Djibouti
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "262"
@@ -1527,7 +1527,7 @@ DJ:
   languages:
     - ar
     - fr
-DK: 
+DK:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1543,14 +1543,14 @@ DK:
   latitude: "56 00 N"
   longitude: "10 00 E"
   name: Denmark
-  names: 
+  names:
     - Denmark
     - Dänemark
     - Danemark
     - Dinamarca
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "208"
@@ -1569,11 +1569,11 @@ DM:
   latitude: "15 25 N"
   longitude: "61 20 W"
   name: Dominica
-  names: 
+  names:
     - Dominica
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "212"
@@ -1582,7 +1582,7 @@ DM:
   un_locode: DM
   languages:
     - en
-DO: 
+DO:
   alpha2: DO
   alpha3: DOM
   country_code: "1"
@@ -1592,14 +1592,14 @@ DO:
   latitude: "19 00 N"
   longitude: "70 40 W"
   name: "Dominican Republic"
-  names: 
+  names:
     - "Dominican Republic"
     - "Dominikanische Republik"
     - "République Dominicaine"
     - "República Dominicana"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "214"
@@ -1608,7 +1608,7 @@ DO:
   un_locode: DO
   languages:
     - es
-DZ: 
+DZ:
   alpha2: DZ
   alpha3: DZA
   country_code: "213"
@@ -1618,14 +1618,14 @@ DZ:
   latitude: "28 00 N"
   longitude: "3 00 E"
   name: Algeria
-  names: 
+  names:
     - Algeria
     - Algerien
     - Algérie
     - Argelia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "7"
   number: "012"
@@ -1644,12 +1644,12 @@ EC:
   latitude: "2 00 S"
   longitude: "77 30 W"
   name: Ecuador
-  names: 
+  names:
     - Équateur
     - Ecuador
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -1659,7 +1659,7 @@ EC:
   un_locode: EC
   languages:
     - es
-EE: 
+EE:
   alpha2: EE
   alpha3: EST
   country_code: "372"
@@ -1669,13 +1669,13 @@ EE:
   latitude: "59 00 N"
   longitude: "26 00 E"
   name: Estonia
-  names: 
+  names:
     - Estland
     - Estonie
     - Estonia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -1685,7 +1685,7 @@ EE:
   un_locode: EE
   languages:
     - et
-EG: 
+EG:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1700,14 +1700,14 @@ EG:
   latitude: "27 00 N"
   longitude: "30 00 E"
   name: Egypt
-  names: 
+  names:
     - Egypt
     - Ägypten
     - Égypte
     - Egipto
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "818"
@@ -1722,11 +1722,11 @@ EH:
   country_code: "212"
   currency: MAD
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "24 30 N"
   longitude: "13 00 W"
   name: "Western Sahara"
-  names: 
+  names:
     - "Western Sahara"
     - Westsahara
     - "Sahara Occidental"
@@ -1741,7 +1741,7 @@ EH:
   languages:
     - es
     - fr
-ER: 
+ER:
   alpha2: ER
   alpha3: ERI
   country_code: "291"
@@ -1751,12 +1751,12 @@ ER:
   latitude: "15 00 N"
   longitude: "39 00 E"
   name: Eritrea
-  names: 
+  names:
     - Érythrée
     - Eritrea
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: "232"
@@ -1767,7 +1767,7 @@ ER:
     - en
     - ar
     - ti
-ES: 
+ES:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1782,14 +1782,14 @@ ES:
   latitude: "40 00 N"
   longitude: "4 00 W"
   name: Spain
-  names: 
+  names:
     - Spain
     - Spanien
     - Espagne
     - España
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "724"
@@ -1798,7 +1798,7 @@ ES:
   un_locode: ES
   languages:
     - es
-ET: 
+ET:
   alpha2: ET
   alpha3: ETH
   country_code: "251"
@@ -1808,14 +1808,14 @@ ET:
   latitude: "8 00 N"
   longitude: "38 00 E"
   name: Ethiopia
-  names: 
+  names:
     - Ethiopia
     - Äthiopien
     - Éthiopie
     - Etiopía
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "231"
@@ -1824,7 +1824,7 @@ ET:
   un_locode: ET
   languages:
     - am
-FI: 
+FI:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1839,14 +1839,14 @@ FI:
   latitude: "64 00 N"
   longitude: "26 00 E"
   name: Finland
-  names: 
+  names:
     - Finland
     - Finnland
     - Finlande
     - Finlandia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "246"
@@ -1856,7 +1856,7 @@ FI:
   languages:
     - fi
     - sv
-FJ: 
+FJ:
   alpha2: FJ
   alpha3: FJI
   country_code: "679"
@@ -1866,13 +1866,13 @@ FJ:
   latitude: "18 00 S"
   longitude: "175 00 E"
   name: Fiji
-  names: 
+  names:
     - Fiji
     - Fidschi
     - Fidji
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "242"
@@ -1884,24 +1884,24 @@ FJ:
     - fj
     - hi
     - ur
-FK: 
+FK:
   alpha2: FK
   alpha3: FLK
   country_code: "500"
   currency: FKP
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "51 45 S"
   longitude: "59 00 W"
   name: "Falkland Islands (Malvinas)"
-  names: 
+  names:
     - "Falkland Islands"
     - Falklandinseln
     - "Îles Malouines"
     - "Islas Malvinas"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
   national_prefix: None
   number: "238"
@@ -1910,7 +1910,7 @@ FK:
   un_locode: FK
   languages:
     - en
-FM: 
+FM:
   alpha2: FM
   alpha3: FSM
   country_code: "691"
@@ -1920,14 +1920,14 @@ FM:
   latitude: "6 55 N"
   longitude: "158 15 E"
   name: "Micronesia, Federated States Of"
-  names: 
+  names:
     - Micronesia
     - Mikronesien
     - Micronésie
     - Micronesia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "1"
   number: "583"
@@ -1936,7 +1936,7 @@ FM:
   un_locode: FM
   languages:
     - en
-FO: 
+FO:
   alpha2: FO
   alpha3: FRO
   country_code: "298"
@@ -1946,14 +1946,14 @@ FO:
   latitude: "62 00 N"
   longitude: "7 00 W"
   name: "Faroe Islands"
-  names: 
+  names:
     - "Faroe Islands"
     - Färöer-Inseln
     - "Îles Féroé"
     - "Islas Faroe"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "234"
@@ -1962,7 +1962,7 @@ FO:
   un_locode: FO
   langauges:
     - fo
-FR: 
+FR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -1977,14 +1977,14 @@ FR:
   latitude: "46 00 N"
   longitude: "2 00 E "
   name: France
-  names: 
+  names:
     - France
     - Frankreich
     - Francia
     - "the French Republic"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 1
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -1994,7 +1994,7 @@ FR:
   un_locode: FR
   languages:
     - fr
-GA: 
+GA:
   alpha2: GA
   alpha3: GAB
   country_code: "241"
@@ -2004,13 +2004,13 @@ GA:
   latitude: "1 00 S"
   longitude: "11 45 E"
   name: Gabon
-  names: 
+  names:
     - Gabon
     - Gabun
     - Gabón
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
     - 8
@@ -2021,7 +2021,7 @@ GA:
   un_locode: GA
   languages:
     - fr
-GB: 
+GB:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2038,14 +2038,14 @@ GB:
   latitude: "54 00 N"
   longitude: "2 00 W"
   name: "United Kingdom"
-  names: 
+  names:
     - "United Kingdom"
     - "GroÃ\u0083Â\u009fbritannien"
     - Royaume-Uni
     - "Reino Unido"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
     - 11
   national_prefix: "0"
@@ -2055,7 +2055,7 @@ GB:
   un_locode:
   languages:
     - en
-GD: 
+GD:
   alpha2: GD
   alpha3: GRD
   country_code: "1"
@@ -2065,11 +2065,11 @@ GD:
   latitude: "12 07 N"
   longitude: "61 40 W"
   name: Grenada
-  names: 
+  names:
     - Grenada
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "308"
@@ -2078,7 +2078,7 @@ GD:
   un_locode: GD
   languages:
     - en
-GE: 
+GE:
   alpha2: GE
   alpha3: GEO
   country_code: "995"
@@ -2088,13 +2088,13 @@ GE:
   latitude: "42 00 N"
   longitude: "43 30 E"
   name: Georgia
-  names: 
+  names:
     - Georgien
     - Géorgie
     - Georgia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: 8*
   number: "268"
@@ -2103,24 +2103,24 @@ GE:
   un_locode: GE
   languages:
     - ka
-GF: 
+GF:
   alpha2: GF
   alpha3: GUF
   country_code: "594"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "4 00 N"
   longitude: "53 00 W "
   name: "French Guiana"
-  names: 
+  names:
     - "French Guiana"
     - "Französisch Guyana"
     - "Guyane française"
     - "Guayana Francesa"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: None
   number: "254"
@@ -2129,17 +2129,17 @@ GF:
   un_locode: GF
   languages:
     - fr
-GG: 
+GG:
   alpha2: GG
   alpha3: GGY
   country_code: "44"
   currency: GGP
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "49 28 N"
   longitude: "2 35 W"
   name: Guernsey
-  names: 
+  names:
     - "Guernsey and Alderney"
     - "Guernsey und Alderney"
     - "Guernsey et Alderney"
@@ -2154,7 +2154,7 @@ GG:
   languages:
     - en
     - fr
-GH: 
+GH:
   alpha2: GH
   alpha3: GHA
   country_code: "233"
@@ -2164,11 +2164,11 @@ GH:
   latitude: "8 00 N"
   longitude: "2 00 W"
   name: Ghana
-  names: 
+  names:
     - Ghana
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
     - 6
     - 7
@@ -2180,21 +2180,21 @@ GH:
   un_locode: GH
   languages:
     - en
-GI: 
+GI:
   alpha2: GI
   alpha3: GIB
   country_code: "350"
   currency: GIP
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "36 08 N"
   longitude: "5 21 W"
   name: Gibraltar
-  names: 
+  names:
     - Gibraltar
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "292"
@@ -2203,7 +2203,7 @@ GI:
   un_locode: GI
   languages:
     - en
-GL: 
+GL:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2214,18 +2214,18 @@ GL:
   country_code: "299"
   currency: DKK
   international_prefix: 009
-  ioc: 
+  ioc:
   latitude: "72 00 N"
   longitude: "40 00 W"
   name: Greenland
-  names: 
+  names:
     - Greenland
     - Grönland
     - Groenland
     - Groenlandia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "304"
@@ -2234,7 +2234,7 @@ GL:
   un_locode: GL
   languages:
     - kl
-GM: 
+GM:
   alpha2: GM
   alpha3: GMB
   country_code: "220"
@@ -2244,11 +2244,11 @@ GM:
   latitude: "13 28 N"
   longitude: "16 34 W"
   name: Gambia
-  names: 
+  names:
     - Gambia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "270"
@@ -2257,7 +2257,7 @@ GM:
   un_locode: GM
   languages:
     - en
-GN: 
+GN:
   alpha2: GN
   alpha3: GIN
   country_code: "224"
@@ -2267,14 +2267,14 @@ GN:
   latitude: "11 00 N"
   longitude: "10 00 W"
   name: Guinea
-  names: 
+  names:
     - Guinea
     - Guinea
     - Guinée
     - Guinea
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "324"
@@ -2290,16 +2290,16 @@ GP:
   country_code: "590"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: Guadeloupe
-  names: 
+  names:
     - Guadeloupe
     - Guadalupe
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: None
   number: "312"
@@ -2308,7 +2308,7 @@ GP:
   un_locode: GP
   languages:
     - fr
-GQ: 
+GQ:
   alpha2: GQ
   alpha3: GNQ
   country_code: "240"
@@ -2318,14 +2318,14 @@ GQ:
   latitude: "2 00 N"
   longitude: "10 00 E"
   name: "Equatorial Guinea"
-  names: 
+  names:
     - "Equatorial Guinea"
     - Äquatorial-Guinea
     - "Guinée Équatoriale"
     - "Guinea Ecuatorial"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "226"
@@ -2335,7 +2335,7 @@ GQ:
   languages:
     - es
     - fr
-GR: 
+GR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2350,14 +2350,14 @@ GR:
   latitude: "39 00 N"
   longitude: "22 00 E"
   name: Greece
-  names: 
+  names:
     - Greece
     - Griechenland
     - Grèce
     - Grecia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: None
   number: "300"
@@ -2366,17 +2366,17 @@ GR:
   un_locode: GR
   languages:
     - el
-GS: 
+GS:
   alpha2: GS
   alpha3: SGS
   country_code: "500"
   currency: ~
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "54 30 S"
   longitude: "37 00 W"
   name: "South Georgia and the South Sandwich Islands"
-  names: 
+  names:
     - "South Georgia and the South Sandwich Islands"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -2387,7 +2387,7 @@ GS:
   un_locode: GS
   languages:
     - en
-GT: 
+GT:
   alpha2: GT
   alpha3: GTM
   country_code: "502"
@@ -2397,11 +2397,11 @@ GT:
   latitude: "15 30 N"
   longitude: "90 15 W"
   name: Guatemala
-  names: 
+  names:
     - Guatemala
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "320"
@@ -2410,7 +2410,7 @@ GT:
   un_locode: GT
   languages:
     - es
-GU: 
+GU:
   alpha2: GU
   alpha3: GUM
   country_code: "1"
@@ -2420,11 +2420,11 @@ GU:
   latitude: "13 28 N"
   longitude: "144 47 E"
   name: Guam
-  names: 
+  names:
     - Guam
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "316"
@@ -2435,7 +2435,7 @@ GU:
     - en
     - ch
     - es
-GW: 
+GW:
   alpha2: GW
   alpha3: GNB
   country_code: "245"
@@ -2445,12 +2445,12 @@ GW:
   latitude: "12 00 N"
   longitude: "15 00 W"
   name: Guinea-Bissau
-  names: 
+  names:
     - Guinea-Bissau
     - Guinée-Bissau
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "624"
@@ -2459,7 +2459,7 @@ GW:
   un_locode: GW
   languages:
     - pt
-GY: 
+GY:
   alpha2: GY
   alpha3: GUY
   country_code: "592"
@@ -2469,11 +2469,11 @@ GY:
   latitude: "5 00 N"
   longitude: "59 00 W"
   name: Guyana
-  names: 
+  names:
     - Guyana
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
   national_prefix: None
@@ -2483,7 +2483,7 @@ GY:
   un_locode: GY
   languages:
     - en
-HK: 
+HK:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2498,11 +2498,11 @@ HK:
   latitude: "22 15 N"
   longitude: "114 10 E"
   name: "Hong Kong"
-  names: 
+  names:
     - "Hong Kong"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "344"
@@ -2512,17 +2512,17 @@ HK:
   languages:
     - en
     - zh
-HM: 
+HM:
   alpha2: HM
   alpha3: HMD
   country_code: ""
   currency: AUD
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "53 06 S"
   longitude: "72 31 E"
   name: "Heard and McDonald Islands"
-  names: 
+  names:
     - "Heard and McDonald Islands"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -2533,7 +2533,7 @@ HM:
   un_locode: HM
   languages:
     - en
-HN: 
+HN:
   alpha2: HN
   alpha3: HND
   country_code: "504"
@@ -2543,11 +2543,11 @@ HN:
   latitude: "15 00 N"
   longitude: "86 30 W"
   name: Honduras
-  names: 
+  names:
     - Honduras
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -2572,14 +2572,14 @@ HR:
   latitude: "45 10 N"
   longitude: "15 30 E"
   name: Croatia
-  names: 
+  names:
     - Croatia
     - Kroatien
     - Croatie
     - Croacia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "191"
@@ -2588,7 +2588,7 @@ HR:
   un_locode: HR
   languages:
     - hr
-HT: 
+HT:
   alpha2: HT
   alpha3: HTI
   country_code: "509"
@@ -2598,11 +2598,11 @@ HT:
   latitude: "19 00 N"
   longitude: "72 25 W"
   name: Haiti
-  names: 
+  names:
     - Haiti
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "332"
@@ -2612,7 +2612,7 @@ HT:
   languages:
     - fr
     - ht
-HU: 
+HU:
   address_format: |-
       {{recipient}}
       {{city}}
@@ -2628,14 +2628,14 @@ HU:
   latitude: "47 00 N"
   longitude: "20 00 E"
   name: Hungary
-  names: 
+  names:
     - Hungary
     - Ungarn
     - Hongrie
     - Hungría
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "06"
@@ -2645,7 +2645,7 @@ HU:
   un_locode: HU
   languages:
     - hu
-ID: 
+ID:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2661,13 +2661,13 @@ ID:
   latitude: "5 00 S"
   longitude: "120 00 E"
   name: Indonesia
-  names: 
+  names:
     - Indonesia
     - Indonesien
     - Indonésie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10
@@ -2679,7 +2679,7 @@ ID:
   un_locode: ID
   languages:
     - id
-IE: 
+IE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2694,14 +2694,14 @@ IE:
   latitude: "53 00 N"
   longitude: "8 00 W"
   name: Ireland
-  names: 
+  names:
     - Ireland
     - Irland
     - Irlande
     - Irlanda
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "372"
@@ -2711,7 +2711,7 @@ IE:
   languages:
     - en
     - ga
-IL: 
+IL:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2726,12 +2726,12 @@ IL:
   latitude: "31 30 N"
   longitude: "34 45 E"
   name: Israel
-  names: 
+  names:
     - Israël
     - Israel
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -2743,17 +2743,17 @@ IL:
   languages:
     - he
     - ar
-IM: 
+IM:
   alpha2: IM
   alpha3: IMN
   country_code: "44"
   currency: IMP
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "54 15 N"
   longitude: "4 30 W"
   name: "Isle of Man"
-  names: 
+  names:
     - "Isle of Man"
     - Man
     - "Île de Man"
@@ -2768,7 +2768,7 @@ IM:
   languages:
     - en
     - gv
-IN: 
+IN:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2784,13 +2784,13 @@ IN:
   latitude: "20 00 N"
   longitude: "77 00 E"
   name: India
-  names: 
+  names:
     - India
     - Indien
     - Inde
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "356"
@@ -2800,17 +2800,17 @@ IN:
   languages:
     - hi
     - en
-IO: 
+IO:
   alpha2: IO
   alpha3: IOT
   country_code: "246"
   currency: USD
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "6 00 S"
   longitude: "71 30 E"
   name: "British Indian Ocean Territory"
-  names: 
+  names:
     - "British Indian Ocean Territory"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -2821,7 +2821,7 @@ IO:
   un_locode: IO
   languages:
     - en
-IQ: 
+IQ:
   alpha2: IQ
   alpha3: IRQ
   country_code: "964"
@@ -2831,12 +2831,12 @@ IQ:
   latitude: "33 00 N"
   longitude: "44 00 E"
   name: Iraq
-  names: 
+  names:
     - Iraq
     - Irak
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10
@@ -2857,12 +2857,12 @@ IR:
   latitude: "32 00 N"
   longitude: "53 00 E"
   name: "Iran, Islamic Republic Of"
-  names: 
+  names:
     - Iran
     - Irán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "364"
@@ -2886,14 +2886,14 @@ IS:
   latitude: "65 00 N"
   longitude: "18 00 W"
   name: Iceland
-  names: 
+  names:
     - Iceland
     - Island
     - Islande
     - Islandia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -2904,7 +2904,7 @@ IS:
   un_locode: IS
   languages:
     - is
-IT: 
+IT:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -2919,14 +2919,14 @@ IT:
   latitude: "42 50 N"
   longitude: "12 50 E"
   name: Italy
-  names: 
+  names:
     - Italy
     - Italien
     - Italie
     - Italia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "380"
@@ -2935,17 +2935,17 @@ IT:
   un_locode: IT
   languages:
     - it
-JE: 
+JE:
   alpha2: JE
   alpha3: JEY
   country_code: "44"
   currency: JEP
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "49 15 N"
   longitude: "2 10 W"
   name: Jersey
-  names: 
+  names:
     - Jersey
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -2957,7 +2957,7 @@ JE:
   languages:
     - en
     - fr
-JM: 
+JM:
   alpha2: JM
   alpha3: JAM
   country_code: "1"
@@ -2967,13 +2967,13 @@ JM:
   latitude: "18 15 N"
   longitude: "77 30 W"
   name: Jamaica
-  names: 
+  names:
     - Jamaica
     - Jamaika
     - Jamaïque
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "388"
@@ -2997,14 +2997,14 @@ JO:
   latitude: "31 00 N"
   longitude: "36 00 E"
   name: Jordan
-  names: 
+  names:
     - Jordan
     - Jordanien
     - Jordanie
     - Jordania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -3014,7 +3014,7 @@ JO:
   un_locode: JO
   languages:
     - ar
-JP: 
+JP:
   address_format: |-
       〒{{postalcode}}
       {{region}}{{city}}{{street}}
@@ -3029,14 +3029,14 @@ JP:
   latitude: "36 00 N"
   longitude: "138 00 E"
   name: Japan
-  names: 
+  names:
     - Japan
     - Japan
     - Japon
     - Japón
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -3046,7 +3046,7 @@ JP:
   un_locode: JP
   languages:
     - ja
-KE: 
+KE:
   alpha2: KE
   alpha3: KEN
   country_code: "254"
@@ -3056,14 +3056,14 @@ KE:
   latitude: "1 00 N"
   longitude: "38 00 E"
   name: Kenya
-  names: 
+  names:
     - Kenya
     - Kenia
     - Kenya
     - Kenia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "404"
@@ -3073,7 +3073,7 @@ KE:
   languages:
     - en
     - sw
-KG: 
+KG:
   alpha2: KG
   alpha3: KGZ
   country_code: "996"
@@ -3083,14 +3083,14 @@ KG:
   latitude: "41 00 N"
   longitude: "75 00 E"
   name: Kyrgyzstan
-  names: 
+  names:
     - Kyrgyzstan
     - Kirgisistan
     - Kirghizistan
     - Kirguizistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "417"
@@ -3100,7 +3100,7 @@ KG:
   languages:
     - ky
     - ru
-KH: 
+KH:
   alpha2: KH
   alpha3: KHM
   country_code: "855"
@@ -3110,14 +3110,14 @@ KH:
   latitude: "13 00 N"
   longitude: "105 00 E"
   name: Cambodia
-  names: 
+  names:
     - Cambodia
     - Kambodscha
     - Cambodge
     - Camboya
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "116"
@@ -3126,7 +3126,7 @@ KH:
   un_locode: KH
   languages:
     - km
-KI: 
+KI:
   alpha2: KI
   alpha3: KIR
   country_code: "686"
@@ -3136,14 +3136,14 @@ KI:
   latitude: "1 25 N"
   longitude: "173 00 E"
   name: Kiribati
-  names: 
+  names:
     - Kiribati
     - Kiribati
     - Kiribati
     - Kiribati
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
   national_prefix: None
   number: "296"
@@ -3162,13 +3162,13 @@ KM:
   latitude: "12 10 S"
   longitude: "44 15 E"
   name: Comoros
-  names: 
+  names:
     - Comoros
     - Komoren
     - Comores
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "174"
@@ -3178,7 +3178,7 @@ KM:
   languages:
     - ar
     - fr
-KN: 
+KN:
   alpha2: KN
   alpha3: KNA
   country_code: "1"
@@ -3188,13 +3188,13 @@ KN:
   latitude: "17 20 N"
   longitude: "62 45 W"
   name: "Saint Kitts And Nevis"
-  names: 
+  names:
     - "Saint Kitts and Nevis"
     - "Saint Kitts et Nevis"
     - "Saint Kitts y Nevis"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "659"
@@ -3203,7 +3203,7 @@ KN:
   un_locode: KN
   languages:
     - en
-KP: 
+KP:
   alpha2: KP
   alpha3: PRK
   country_code: "850"
@@ -3213,14 +3213,14 @@ KP:
   latitude: "40 00 N"
   longitude: "127 00 E"
   name: "Korea, Democratic People's Republic Of"
-  names: 
+  names:
     - "Korea (North)"
     - Nordkorea
     - "Corée du Nord"
     - "Corea del Norte"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -3230,7 +3230,7 @@ KP:
   un_locode: KP
   languages:
     - ko
-KR: 
+KR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -3246,14 +3246,14 @@ KR:
   latitude: "37 00 N"
   longitude: "127 30 E"
   name: "Korea, Republic of"
-  names: 
+  names:
     - "Korea (South)"
     - Südkorea
     - "Corée du Sud"
     - "Corea del Sur"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -3263,7 +3263,7 @@ KR:
   un_locode: KR
   languages:
     - ko
-KW: 
+KW:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -3279,12 +3279,12 @@ KW:
   latitude: "29 30 N"
   longitude: "45 45 E"
   name: Kuwait
-  names: 
+  names:
     - Koweït
     - Kuwait
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "414"
@@ -3293,7 +3293,7 @@ KW:
   un_locode: KW
   languages:
     - ar
-KY: 
+KY:
   alpha2: KY
   alpha3: CYM
   country_code: "1"
@@ -3303,14 +3303,14 @@ KY:
   latitude: "19 30 N"
   longitude: "80 30 W"
   name: "Cayman Islands"
-  names: 
+  names:
     - "Cayman Islands"
     - Cayman-Inseln
     - "Îles Caïmans"
     - "Islas Caimán"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "136"
@@ -3319,7 +3319,7 @@ KY:
   un_locode: KY
   languages:
     - en
-KZ: 
+KZ:
   alpha2: KZ
   alpha3: KAZ
   country_code: "7"
@@ -3329,14 +3329,14 @@ KZ:
   latitude: "48 00 N"
   longitude: "68 00 E"
   name: Kazakhstan
-  names: 
+  names:
     - Kazakhstan
     - Kasachstan
     - Kazakhstan
     - Kazajistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "8"
   number: "398"
@@ -3346,7 +3346,7 @@ KZ:
   languages:
     - kk
     - ru
-LA: 
+LA:
   alpha2: LA
   alpha3: LAO
   country_code: "856"
@@ -3356,14 +3356,14 @@ LA:
   latitude: "18 00 N"
   longitude: "105 00 E"
   name: "Lao People's Democratic Republic"
-  names: 
+  names:
     - Laos
     - Laos
     - Laos
     - Laos
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "418"
@@ -3372,7 +3372,7 @@ LA:
   un_locode: LA
   languages:
     - lo
-LB: 
+LB:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -3387,14 +3387,14 @@ LB:
   latitude: "33 50 N"
   longitude: "35 50 E"
   name: Lebanon
-  names: 
+  names:
     - Lebanon
     - Libanon
     - Liban
     - Líbano
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "422"
@@ -3404,7 +3404,7 @@ LB:
   languages:
     - ar
     - fr
-LC: 
+LC:
   alpha2: LC
   alpha3: LCA
   country_code: "1"
@@ -3414,13 +3414,13 @@ LC:
   latitude: "13 53 N"
   longitude: "60 58 W"
   name: "Saint Lucia"
-  names: 
+  names:
     - "Saint Lucia"
     - Saint-Lucie
     - "Santa Lucía"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "662"
@@ -3429,7 +3429,7 @@ LC:
   un_locode: LC
   languages:
     - en
-LI: 
+LI:
   alpha2: LI
   alpha3: LIE
   country_code: "423"
@@ -3439,11 +3439,11 @@ LI:
   latitude: "47 16 N"
   longitude: "9 32 E"
   name: Liechtenstein
-  names: 
+  names:
     - Liechtenstein
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "438"
@@ -3452,7 +3452,7 @@ LI:
   un_locode: LI
   languages:
     - de
-LK: 
+LK:
   alpha2: LK
   alpha3: LKA
   country_code: "94"
@@ -3462,11 +3462,11 @@ LK:
   latitude: "7 00 N"
   longitude: "81 00 E"
   name: "Sri Lanka"
-  names: 
+  names:
     - "Sri Lanka"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "144"
@@ -3476,7 +3476,7 @@ LK:
   languages:
     - si
     - ta
-LR: 
+LR:
   alpha2: LR
   alpha3: LBR
   country_code: "231"
@@ -3486,14 +3486,14 @@ LR:
   latitude: "6 30 N"
   longitude: "9 30 W"
   name: Liberia
-  names: 
+  names:
     - Liberia
     - Liberia
     - Liberia
     - Liberia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
     - 8
@@ -3504,7 +3504,7 @@ LR:
   un_locode: LR
   languages:
     - en
-LS: 
+LS:
   alpha2: LS
   alpha3: LSO
   alt_currency: ZAR
@@ -3515,14 +3515,14 @@ LS:
   latitude: "29 30 S"
   longitude: "28 30 E"
   name: Lesotho
-  names: 
+  names:
     - Lesotho
     - Lesotho
     - Lesotho
     - Lesotho
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "426"
@@ -3532,7 +3532,7 @@ LS:
   languages:
     - en
     - st
-LT: 
+LT:
   alpha2: LT
   alpha3: LTU
   country_code: "370"
@@ -3542,14 +3542,14 @@ LT:
   latitude: "56 00 N"
   longitude: "24 00 E"
   name: Lithuania
-  names: 
+  names:
     - Lithuania
     - Litauen
     - Lituanie
     - Lituania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "8"
   number: "440"
@@ -3558,7 +3558,7 @@ LT:
   un_locode: LT
   languages:
     - lt
-LU: 
+LU:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -3573,14 +3573,14 @@ LU:
   latitude: "49 45 N"
   longitude: "6 10 E"
   name: Luxembourg
-  names: 
+  names:
     - Luxembourg
     - Luxemburg
     - Luxembourg
     - Luxemburgo
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "442"
@@ -3591,7 +3591,7 @@ LU:
     - fr
     - de
     - lb
-LV: 
+LV:
   alpha2: LV
   alpha3: LVA
   country_code: "371"
@@ -3601,14 +3601,14 @@ LV:
   latitude: "57 00 N"
   longitude: "25 00 E"
   name: Latvia
-  names: 
+  names:
     - Latvia
     - Lettland
     - Lettonie
     - Letonia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "8"
   number: "428"
@@ -3617,7 +3617,7 @@ LV:
   un_locode: LV
   languages:
     - lv
-LY: 
+LY:
   alpha2: LY
   alpha3: LBY
   country_code: "218"
@@ -3627,14 +3627,14 @@ LY:
   latitude: "25 00 N"
   longitude: "17 00 E"
   name: "Libya"
-  names: 
+  names:
     - Libya
     - Libyen
     - Libye
     - Libia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -3644,7 +3644,7 @@ LY:
   un_locode: LY
   languages:
     - ar
-MA: 
+MA:
   alpha2: MA
   alpha3: MAR
   country_code: "212"
@@ -3654,14 +3654,14 @@ MA:
   latitude: "32 00 N"
   longitude: "5 00 W"
   name: Morocco
-  names: 
+  names:
     - Morocco
     - Marokko
     - Maroc
     - Marruecos
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "504"
@@ -3670,7 +3670,7 @@ MA:
   un_locode: MA
   languages:
     - ar
-MC: 
+MC:
   alpha2: MC
   alpha3: MCO
   country_code: "377"
@@ -3680,12 +3680,12 @@ MC:
   latitude: "43 44 N"
   longitude: "7 24 E"
   name: Monaco
-  names: 
+  names:
     - Monaco
     - Mónaco
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -3695,7 +3695,7 @@ MC:
   un_locode: MC
   languages:
     - fr
-MD: 
+MD:
   alpha2: MD
   alpha3: MDA
   country_code: "373"
@@ -3705,15 +3705,15 @@ MD:
   latitude: "47 00 N"
   longitude: "29 00 E"
   name: "Moldova, Republic of"
-  names: 
+  names:
     - Moldova
     - Moldawien
     - Moldavie
     - Moldavia
     - "the Republic of Moldova"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "498"
@@ -3722,7 +3722,7 @@ MD:
   un_locode: MD
   languages:
     - ro
-ME: 
+ME:
   alpha2: ME
   alpha3: MNE
   country_code: "382"
@@ -3732,12 +3732,12 @@ ME:
   latitude: "42 30 N"
   longitude: "19 18 E"
   name: Montenegro
-  names: 
+  names:
     - "Crna Gora"
     - Montenegro
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "499"
@@ -3749,17 +3749,17 @@ ME:
     - bs
     - sq
     - hr
-MF: 
+MF:
   alpha2: MF
   alpha3: MAF
   country_code: "590"
   currency: EUR
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: "18 05 N"
   longitude: "63 57 W"
   name: "Saint Martin"
-  names: 
+  names:
     - "Saint Martin"
   national_destination_code_lengths: []
   national_number_lengths: []
@@ -3772,7 +3772,7 @@ MF:
     - en
     - fr
     - nl
-MG: 
+MG:
   alpha2: MG
   alpha3: MDG
   country_code: "261"
@@ -3782,13 +3782,13 @@ MG:
   latitude: "20 00 S"
   longitude: "47 00 E"
   name: Madagascar
-  names: 
+  names:
     - Madagascar
     - Madagaskar
     - "the Republic of Madagascar"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "450"
@@ -3798,7 +3798,7 @@ MG:
   languages:
     - fr
     - mg
-MH: 
+MH:
   alpha2: MH
   alpha3: MHL
   country_code: "692"
@@ -3808,14 +3808,14 @@ MH:
   latitude: "9 00 N"
   longitude: "168 00 E"
   name: "Marshall Islands"
-  names: 
+  names:
     - "Marshall Islands"
     - Marshall-Inseln
     - "Îles Marshall"
     - "Islas Marshall"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "1"
   number: "584"
@@ -3825,7 +3825,7 @@ MH:
   languages:
     - en
     - mh
-MK: 
+MK:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -3840,14 +3840,14 @@ MK:
   latitude: "41 50 N"
   longitude: "22 00 E"
   name: "Macedonia, the Former Yugoslav Republic Of"
-  names: 
+  names:
     - Macedonia
     - Mazedonien
     - Macédoine
     - Macedonia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: "0"
@@ -3857,7 +3857,7 @@ MK:
   un_locode: MK
   languages:
     - mk
-ML: 
+ML:
   alpha2: ML
   alpha3: MLI
   country_code: "223"
@@ -3867,11 +3867,11 @@ ML:
   latitude: "17 00 N"
   longitude: "4 00 W"
   name: Mali
-  names: 
+  names:
     - Mali
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "466"
@@ -3880,7 +3880,7 @@ ML:
   un_locode: ML
   languages:
     - fr
-MM: 
+MM:
   alpha2: MM
   alpha3: MMR
   country_code: "95"
@@ -3890,14 +3890,14 @@ MM:
   latitude: "22 00 N"
   longitude: "98 00 E"
   name: Myanmar
-  names: 
+  names:
     - Myanmar
     - Myanmar
     - Myanmar
     - Myanmar
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -3907,7 +3907,7 @@ MM:
   un_locode: MM
   languages:
     - my
-MN: 
+MN:
   alpha2: MN
   alpha3: MNG
   country_code: "976"
@@ -3917,13 +3917,13 @@ MN:
   latitude: "46 00 N"
   longitude: "105 00 E"
   name: Mongolia
-  names: 
+  names:
     - Mongolei
     - Mongolie
     - Mongolia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -3935,21 +3935,21 @@ MN:
   un_locode: MN
   languages:
     - mn
-MO: 
+MO:
   alpha2: MO
   alpha3: MAC
   country_code: "853"
   currency: ~
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "22 10 N"
   longitude: "113 33 E"
   name: Macao
-  names: 
+  names:
     - Macao
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "446"
@@ -3959,24 +3959,24 @@ MO:
   languages:
     - zh
     - pt
-MP: 
+MP:
   alpha2: MP
   alpha3: MNP
   country_code: "1"
   currency: USD
   international_prefix: "011"
-  ioc: 
+  ioc:
   latitude: "15 12 N"
   longitude: "145 45 E"
   name: "Northern Mariana Islands"
-  names: 
+  names:
     - "Northern Mariana Islands"
     - "Nördliche Marianen"
     - "Mariannes du Nord"
     - "Islas Marianas del Norte"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "580"
@@ -3992,18 +3992,18 @@ MQ:
   country_code: "596"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: Martinique
-  names: 
+  names:
     - Martinique
     - Martinique
     - Martinique
     - Martinica
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: None
   number: "474"
@@ -4022,14 +4022,14 @@ MR:
   latitude: "20 00 N"
   longitude: "12 00 W"
   name: Mauritania
-  names: 
+  names:
     - Mauritania
     - Mauretanien
     - Mauritanie
     - Mauritania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: "478"
@@ -4039,24 +4039,24 @@ MR:
   languages:
     - ar
     - fr
-MS: 
+MS:
   alpha2: MS
   alpha3: MSR
   country_code: "1"
   currency: XCD
   international_prefix: "011"
-  ioc: 
+  ioc:
   latitude: "16 45 N"
   longitude: "62 12 W"
   name: Montserrat
-  names: 
+  names:
     - Montserrat
     - Montserrat
     - Montserrat
     - Montserrat
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "500"
@@ -4065,7 +4065,7 @@ MS:
   un_locode: MS
   languages:
     - en
-MT: 
+MT:
   alpha2: MT
   alpha3: MLT
   country_code: "356"
@@ -4075,14 +4075,14 @@ MT:
   latitude: "35 50 N"
   longitude: "14 35 E"
   name: Malta
-  names: 
+  names:
     - Malta
     - Malta
     - Malte
     - Malta
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "21"
   number: "470"
@@ -4092,7 +4092,7 @@ MT:
   languages:
     - mt
     - en
-MU: 
+MU:
   alpha2: MU
   alpha3: MUS
   country_code: "230"
@@ -4102,14 +4102,14 @@ MU:
   latitude: "20 17 S"
   longitude: "57 33 E"
   name: Mauritius
-  names: 
+  names:
     - Mauritius
     - Mauritius
     - "Île Maurice"
     - Mauricio
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "480"
@@ -4118,7 +4118,7 @@ MU:
   un_locode: MU
   languages:
     - en
-MV: 
+MV:
   alpha2: MV
   alpha3: MDV
   country_code: "960"
@@ -4128,13 +4128,13 @@ MV:
   latitude: "3 15 N"
   longitude: "73 00 E"
   name: Maldives
-  names: 
+  names:
     - Maldives
     - Malediven
     - Maldivas
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "462"
@@ -4143,7 +4143,7 @@ MV:
   un_locode: MV
   languages:
     - dv
-MW: 
+MW:
   alpha2: MW
   alpha3: MWI
   country_code: "265"
@@ -4153,11 +4153,11 @@ MW:
   latitude: "13 30 S"
   longitude: "34 00 E"
   name: Malawi
-  names: 
+  names:
     - Malawi
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "454"
@@ -4167,7 +4167,7 @@ MW:
   languages:
     - en
     - ny
-MX: 
+MX:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4182,14 +4182,14 @@ MX:
   latitude: "23 00 N"
   longitude: "102 00 W"
   name: Mexico
-  names: 
+  names:
     - Mexico
     - Mexiko
     - Mexique
     - México
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10
@@ -4200,7 +4200,7 @@ MX:
   un_locode: MX
   languages:
     - es
-MY: 
+MY:
   alpha2: MY
   alpha3: MYS
   country_code: "60"
@@ -4210,13 +4210,13 @@ MY:
   latitude: "2 30 N"
   longitude: "112 30 E"
   name: Malaysia
-  names: 
+  names:
     - Malaysia
     - Malaisie
     - Malasia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -4226,7 +4226,7 @@ MY:
   un_locode: MY
   languages:
     - en
-MZ: 
+MZ:
   alpha2: MZ
   alpha3: MOZ
   country_code: "258"
@@ -4236,14 +4236,14 @@ MZ:
   latitude: "18 15 S"
   longitude: "35 00 E"
   name: Mozambique
-  names: 
+  names:
     - Mozambique
     - Mosambik
     - Mozambique
     - Mozambique
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -4253,7 +4253,7 @@ MZ:
   un_locode: MZ
   languages:
     - pt
-NA: 
+NA:
   alpha2: NA
   alpha3: NAM
   alt_currency: ZAR
@@ -4264,14 +4264,14 @@ NA:
   latitude: "22 00 S"
   longitude: "17 00 E"
   name: Namibia
-  names: 
+  names:
     - Namibia
     - Namibia
     - Namibie
     - Namibia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
   national_prefix: "0"
@@ -4282,24 +4282,24 @@ NA:
   languages:
     - en
     - af
-NC: 
+NC:
   alpha2: NC
   alpha3: NCL
   country_code: "687"
   currency: XPF
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "21 30 S"
   longitude: "165 30 E"
   name: "New Caledonia"
-  names: 
+  names:
     - "New Caledonia"
     - Neukaledonien
     - "Nouvelle Calédonie"
     - "Nueva Caledonia"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "540"
@@ -4308,7 +4308,7 @@ NC:
   un_locode: NC
   languages:
     - fr
-NE: 
+NE:
   alpha2: NE
   alpha3: NER
   country_code: "227"
@@ -4318,11 +4318,11 @@ NE:
   latitude: "16 00 N"
   longitude: "8 00 E"
   name: Niger
-  names: 
+  names:
     - Níger
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "562"
@@ -4331,24 +4331,24 @@ NE:
   un_locode: NE
   languages:
     - fr
-NF: 
+NF:
   alpha2: NF
   alpha3: NFK
   country_code: "672"
   currency: AUD
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "29 02 S"
   longitude: "167 57 E"
   name: "Norfolk Island"
-  names: 
+  names:
     - "Norfolk Island"
     - "Norfolk Island"
     - "Île de Norfolk"
     - "Isla de Norfolk"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "574"
@@ -4357,7 +4357,7 @@ NF:
   un_locode: NF
   languages:
     - en
-NG: 
+NG:
   alpha2: NG
   alpha3: NGA
   country_code: "234"
@@ -4367,13 +4367,13 @@ NG:
   latitude: "10 00 N"
   longitude: "8 00 E"
   name: Nigeria
-  names: 
+  names:
     - Nigeria
     - Nigéria
     - "the Federal Republic of Nigeria"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: "0"
@@ -4383,7 +4383,7 @@ NG:
   un_locode: NG
   languages:
     - en
-NI: 
+NI:
   alpha2: NI
   alpha3: NIC
   country_code: "505"
@@ -4393,14 +4393,14 @@ NI:
   latitude: "13 00 N"
   longitude: "85 00 W"
   name: Nicaragua
-  names: 
+  names:
     - Nicaragua
     - Nicaragua
     - Nicaragua
     - Nicaragua
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "558"
@@ -4409,7 +4409,7 @@ NI:
   un_locode: NI
   languages:
     - es
-NL: 
+NL:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4424,14 +4424,14 @@ NL:
   latitude: "52 30 N"
   longitude: "5 45 E"
   name: Netherlands
-  names: 
+  names:
     - Netherlands
     - Niederlande
     - Pays-Bas
     - "Países Bajos"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "528"
@@ -4440,7 +4440,7 @@ NL:
   un_locode: NL
   languages:
     - nl
-"NO": 
+"NO":
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4455,14 +4455,14 @@ NL:
   latitude: "62 00 N"
   longitude: "10 00 E"
   name: Norway
-  names: 
+  names:
     - Norway
     - Norwegen
     - Norvège
     - Noruega
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "578"
@@ -4471,7 +4471,7 @@ NL:
   un_locode: NL
   languages:
     - "no"
-NP: 
+NP:
   alpha2: NP
   alpha3: NPL
   country_code: "977"
@@ -4481,15 +4481,15 @@ NP:
   latitude: "28 00 N"
   longitude: "84 00 E"
   name: Nepal
-  names: 
+  names:
     - Nepal
     - Nepal
     - Népal
     - Nepal
     - "the Federal Democratic Republic of Nepal"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: "0"
@@ -4499,7 +4499,7 @@ NP:
   un_locode: NP
   languages:
     - ne
-NR: 
+NR:
   alpha2: NR
   alpha3: NRU
   country_code: "674"
@@ -4509,14 +4509,14 @@ NR:
   latitude: "0 32 S"
   longitude: "166 55 E"
   name: Nauru
-  names: 
+  names:
     - Nauru
     - Nauru
     - Nauru
     - Nauru
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: "0"
   number: "520"
@@ -4526,21 +4526,21 @@ NR:
   languages:
     - en
     - na
-NU: 
+NU:
   alpha2: NU
   alpha3: NIU
   country_code: "683"
   currency: ~
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "19 02 S"
   longitude: "169 52 W"
   name: Niue
-  names: 
+  names:
     - Niue
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 4
   national_prefix: None
   number: "570"
@@ -4549,7 +4549,7 @@ NU:
   un_locode: NU
   languages:
     - en
-NZ: 
+NZ:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4565,14 +4565,14 @@ NZ:
   latitude: "41 00 S"
   longitude: "174 00 E"
   name: "New Zealand"
-  names: 
+  names:
     - "New Zealand"
     - Neuseeland
     - "Nouvelle ZÃ©lande"
     - "Nueva Zelanda"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 1
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0 (None fo"
@@ -4582,7 +4582,7 @@ NZ:
   un_locode: NZ
   languages:
     - en
-OM: 
+OM:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4598,12 +4598,12 @@ OM:
   latitude: "21 00 N"
   longitude: "57 00 E"
   name: Oman
-  names: 
+  names:
     - Oman
     - Omán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "512"
@@ -4612,7 +4612,7 @@ OM:
   un_locode: OM
   languages:
     - ar
-PA: 
+PA:
   alpha2: PA
   alpha3: PAN
   alt_currency: USD
@@ -4623,12 +4623,12 @@ PA:
   latitude: "9 00 N"
   longitude: "80 00 W"
   name: Panama
-  names: 
+  names:
     - Panama
     - Panamá
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "591"
@@ -4637,7 +4637,7 @@ PA:
   un_locode: PA
   languages:
     - es
-PE: 
+PE:
   alpha2: PE
   alpha3: PER
   country_code: "51"
@@ -4647,13 +4647,13 @@ PE:
   latitude: "10 00 S"
   longitude: "76 00 W"
   name: Peru
-  names: 
+  names:
     - Peru
     - Pérou
     - Perú
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -4663,24 +4663,24 @@ PE:
   un_locode: PE
   languages:
     - es
-PF: 
+PF:
   alpha2: PF
   alpha3: PYF
   country_code: "689"
   currency: XPF
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "15 00 S"
   longitude: "140 00 W"
   name: "French Polynesia"
-  names: 
+  names:
     - "French Polynesia"
     - Französisch-Polynesien
     - "Polynésie Française"
     - "Polinesia Francesa"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "258"
@@ -4689,7 +4689,7 @@ PF:
   un_locode: PF
   languages:
     - fr
-PG: 
+PG:
   alpha2: PG
   alpha3: PNG
   country_code: "675"
@@ -4699,14 +4699,14 @@ PG:
   latitude: "6 00 S"
   longitude: "147 00 E"
   name: "Papua New Guinea"
-  names: 
+  names:
     - "Papua New Guinea"
     - Papua-Neuguinea
     - "Papouasie Nouvelle-Guinée"
     - "Papúa Nueva Guinea"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "598"
@@ -4715,7 +4715,7 @@ PG:
   un_locode: PG
   languages:
     - en
-PH: 
+PH:
   address_format: |-
       {{recipient}}
       {{street}} {{region}}
@@ -4730,13 +4730,13 @@ PH:
   latitude: "13 00 N"
   longitude: "122 00 E"
   name: Philippines
-  names: 
+  names:
     - Philippinen
     - Philippines
     - Filipinas
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10
@@ -4758,12 +4758,12 @@ PK:
   latitude: "30 00 N"
   longitude: "70 00 E"
   name: Pakistan
-  names: 
+  names:
     - Pakistan
     - Paquistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -4774,7 +4774,7 @@ PK:
   languages:
     - en
     - ur
-PL: 
+PL:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4790,14 +4790,14 @@ PL:
   latitude: "52 00 N"
   longitude: "20 00 E"
   name: Poland
-  names: 
+  names:
     - Poland
     - Polen
     - Pologne
     - Polonia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "616"
@@ -4806,24 +4806,24 @@ PL:
   un_locode: PL
   languages:
     - pl
-PM: 
+PM:
   alpha2: PM
   alpha3: SPM
   country_code: "508"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "46 50 N"
   longitude: "56 20 W"
   name: "Saint Pierre And Miquelon"
-  names: 
+  names:
     - "Saint Pierre and Miquelon"
     - Saint-Pierre-et-Miquelon
     - Saint-Pierre-et-Miquelon
     - "San Pedro y Miquelón"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: "0"
   number: "666"
@@ -4832,20 +4832,20 @@ PM:
   un_locode: PM
   languages:
     - fr
-PN: 
+PN:
   alpha2: PN
   alpha3: PCN
   country_code: ""
   currency: NZD
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "25 04 S"
   longitude: "130 06 W"
   name: Pitcairn
-  names: 
+  names:
     - Pitcairn
   national_destination_code_lengths: []
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "612"
@@ -4854,7 +4854,7 @@ PN:
   un_locode: PN
   languages:
     - en
-PR: 
+PR:
   alpha2: PR
   alpha3: PRI
   country_code: "1"
@@ -4864,11 +4864,11 @@ PR:
   latitude: "18 15 N"
   longitude: "66 30 W"
   name: "Puerto Rico"
-  names: 
+  names:
     - "Puerto Rico"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "630"
@@ -4878,7 +4878,7 @@ PR:
   languages:
     - es
     - en
-PS: 
+PS:
   alpha2: PS
   alpha3: PSE
   country_code: "970"
@@ -4888,15 +4888,15 @@ PS:
   latitude: ""
   longitude: ""
   name: "Palestinian Territory, Occupied"
-  names: 
+  names:
     - Palestine
     - Palästina
     - Palestine
     - Palestina
     - "the Occupied Palestinian Territory"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "275"
@@ -4907,7 +4907,7 @@ PS:
     - ar
     - he
     - en
-PT: 
+PT:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4922,11 +4922,11 @@ PT:
   latitude: "39 30 N"
   longitude: "8 00 W"
   name: Portugal
-  names: 
+  names:
     - Portugal
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "620"
@@ -4935,7 +4935,7 @@ PT:
   un_locode: PT
   languages:
     - pt
-PW: 
+PW:
   alpha2: PW
   alpha3: PLW
   country_code: "680"
@@ -4945,11 +4945,11 @@ PW:
   latitude: "7 30 N"
   longitude: "134 30 E"
   name: Palau
-  names: 
+  names:
     - Palau
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "585"
@@ -4968,11 +4968,11 @@ PY:
   latitude: "23 00 S"
   longitude: "58 00 W"
   name: Paraguay
-  names: 
+  names:
     - Paraguay
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "600"
@@ -4982,7 +4982,7 @@ PY:
   languages:
     - es
     - gn
-QA: 
+QA:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -4997,12 +4997,12 @@ QA:
   latitude: "25 30 N"
   longitude: "51 15 E"
   name: Qatar
-  names: 
+  names:
     - Qatar
     - Katar
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "634"
@@ -5011,24 +5011,24 @@ QA:
   un_locode: QA
   languages:
     - ar
-RE: 
+RE:
   alpha2: RE
   alpha3: REU
   country_code: "262"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: Réunion
-  names: 
+  names:
     - Réunion
     - Réunion
     - Réunion
     - Reunión
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: None
   number: "638"
@@ -5037,7 +5037,7 @@ RE:
   un_locode: RE
   languages:
     - fr
-RO: 
+RO:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5052,14 +5052,14 @@ RO:
   latitude: "46 00 N"
   longitude: "25 00 E"
   name: Romania
-  names: 
+  names:
     - Romania
     - Rumänien
     - Roumanie
     - Rumania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "642"
@@ -5068,7 +5068,7 @@ RO:
   un_locode: RO
   languages:
     - ro
-RS: 
+RS:
   alpha2: RS
   alpha3: SRB
   country_code: "381"
@@ -5078,14 +5078,14 @@ RS:
   latitude: "44 00 N"
   longitude: "21 00 E"
   name: Serbia
-  names: 
+  names:
     - Serbia
     - Serbien
     - Serbie
     - Serbia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "688"
@@ -5094,7 +5094,7 @@ RS:
   un_locode: RS
   languages:
     - sr
-RU: 
+RU:
   address_format: |-
       {{recipient}}
       {{postalcode}} {{city}}
@@ -5109,14 +5109,14 @@ RU:
   latitude: "60 00 N"
   longitude: "100 00 E"
   name: "Russian Federation"
-  names: 
+  names:
     - Russia
     - Russland
     - Russie
     - Rusia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "8"
   number: "643"
@@ -5125,7 +5125,7 @@ RU:
   un_locode: RU
   languages:
     - ru
-RW: 
+RW:
   alpha2: RW
   alpha3: RWA
   country_code: "250"
@@ -5135,12 +5135,12 @@ RW:
   latitude: "2 00 S"
   longitude: "30 00 E"
   name: Rwanda
-  names: 
+  names:
     - Rwanda
     - Ruanda
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
     - 6
     - 7
@@ -5169,14 +5169,14 @@ SA:
   latitude: "25 00 N"
   longitude: "45 00 E"
   name: "Saudi Arabia"
-  names: 
+  names:
     - "Saudi Arabia"
     - Saudi-Arabien
     - "Arabie Saoudite"
     - "Arabia Saudí"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "0"
@@ -5186,7 +5186,7 @@ SA:
   un_locode: SA
   languages:
     - ar
-SB: 
+SB:
   alpha2: SB
   alpha3: SLB
   country_code: "677"
@@ -5196,14 +5196,14 @@ SB:
   latitude: "8 00 S"
   longitude: "159 00 E"
   name: "Solomon Islands"
-  names: 
+  names:
     - "Solomon Islands"
     - Salomonen
     - "Îles Salomon"
     - "Islas Salomón"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
   national_prefix: None
   number: 090
@@ -5212,7 +5212,7 @@ SB:
   un_locode: SB
   languages:
     - en
-SC: 
+SC:
   alpha2: SC
   alpha3: SYC
   country_code: "248"
@@ -5222,11 +5222,11 @@ SC:
   latitude: "4 35 S"
   longitude: "55 40 E"
   name: Seychelles
-  names: 
+  names:
     - Seychelles
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "690"
@@ -5236,7 +5236,7 @@ SC:
   languages:
     - fr
     - en
-SD: 
+SD:
   alpha2: SD
   alpha3: SDN
   country_code: "249"
@@ -5246,13 +5246,13 @@ SD:
   latitude: "15 00 N"
   longitude: "30 00 E"
   name: Sudan
-  names: 
+  names:
     - Sudan
     - Soudan
     - Sudán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "736"
@@ -5262,7 +5262,7 @@ SD:
   languages:
     - ar
     - en
-SE: 
+SE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5277,14 +5277,14 @@ SE:
   latitude: "62 00 N"
   longitude: "15 00 E"
   name: Sweden
-  names: 
+  names:
     - Sweden
     - Schweden
     - Suède
     - Suecia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "752"
@@ -5293,7 +5293,7 @@ SE:
   un_locode: SE
   languages:
     - sv
-SG: 
+SG:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5308,14 +5308,14 @@ SG:
   latitude: "1 22 N"
   longitude: "103 48 E"
   name: Singapore
-  names: 
+  names:
     - Singapore
     - Singapur
     - Singapour
     - Singapur
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: None
@@ -5327,24 +5327,24 @@ SG:
     - en
     - ms
     - ta
-SH: 
+SH:
   alpha2: SH
   alpha3: SHN
   country_code: "290"
   currency: SHP
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "Saint Helena: 15 57 "
   longitude: "Saint Helena: 5 42 W"
   name: "Saint Helena"
-  names: 
+  names:
     - "Saint Helena"
     - "Sankt Helena"
     - "Sainte Hélène"
     - "Santa Helena"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 4
   national_prefix: None
   number: "654"
@@ -5353,7 +5353,7 @@ SH:
   un_locode: SH
   languages:
     - en
-SI: 
+SI:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5368,14 +5368,14 @@ SI:
   latitude: "46 07 N"
   longitude: "14 49 E"
   name: Slovenia
-  names: 
+  names:
     - Slovenia
     - Slowenien
     - Slovénie
     - Eslovenia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "705"
@@ -5384,24 +5384,24 @@ SI:
   un_locode: SI
   languages:
     - sl
-SJ: 
+SJ:
   alpha2: SJ
   alpha3: SJM
   country_code: "47"
   currency: NOK
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "78 00 N"
   longitude: "20 00 E"
   name: "Svalbard And Jan Mayen"
-  names: 
+  names:
     - "Svalbard and Jan Mayen"
     - "Svalbard und Jan Mayen"
     - "Îles Svalbard et Jan Mayen"
     - "Islas Svalbard y Jan Mayen"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "744"
@@ -5410,7 +5410,7 @@ SJ:
   un_locode: SJ
   languages:
     - "no"
-SK: 
+SK:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5425,14 +5425,14 @@ SK:
   latitude: "48 40 N"
   longitude: "19 30 E"
   name: Slovakia
-  names: 
+  names:
     - Slovakia
     - Slowakei
     - Slovaquie
     - "República Eslovaca"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "703"
@@ -5441,7 +5441,7 @@ SK:
   un_locode: SK
   languages:
     - sk
-SL: 
+SL:
   alpha2: SL
   alpha3: SLE
   country_code: "232"
@@ -5451,11 +5451,11 @@ SL:
   latitude: "8 30 N"
   longitude: "11 30 W"
   name: "Sierra Leone"
-  names: 
+  names:
     - "Sierra Leone"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "0"
   number: "694"
@@ -5464,7 +5464,7 @@ SL:
   un_locode: SL
   languages:
     - en
-SM: 
+SM:
   alpha2: SM
   alpha3: SMR
   country_code: "378"
@@ -5474,12 +5474,12 @@ SM:
   latitude: "43 46 N"
   longitude: "12 25 E"
   name: "San Marino"
-  names: 
+  names:
     - "San Marino"
     - Saint-Marin
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
     - 11
@@ -5491,7 +5491,7 @@ SM:
   un_locode: SM
   languages:
     - it
-SN: 
+SN:
   alpha2: SN
   alpha3: SEN
   country_code: "221"
@@ -5501,12 +5501,12 @@ SN:
   latitude: "14 00 N"
   longitude: "14 00 W"
   name: Senegal
-  names: 
+  names:
     - Senegal
     - Sénégal
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "686"
@@ -5515,7 +5515,7 @@ SN:
   un_locode: SN
   languages:
     - fr
-SO: 
+SO:
   alpha2: SO
   alpha3: SOM
   country_code: "252"
@@ -5525,11 +5525,11 @@ SO:
   latitude: "10 00 N"
   longitude: "49 00 E"
   name: Somalia
-  names: 
+  names:
     - Somalia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -5540,7 +5540,7 @@ SO:
   languages:
     - so
     - ar
-SR: 
+SR:
   alpha2: SR
   alpha3: SUR
   country_code: "597"
@@ -5550,12 +5550,12 @@ SR:
   latitude: "4 00 N"
   longitude: "56 00 W"
   name: Suriname
-  names: 
+  names:
     - Suriname
     - Surinam
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: "0"
   number: "740"
@@ -5564,7 +5564,7 @@ SR:
   un_locode: SR
   languages:
     - nl
-ST: 
+ST:
   alpha2: ST
   alpha3: STP
   country_code: "239"
@@ -5574,14 +5574,14 @@ ST:
   latitude: "1 00 N"
   longitude: "7 00 E"
   name: "Sao Tome and Principe"
-  names: 
+  names:
     - "São Tomé and Príncipe"
     - "São Tomé und Príncipe"
     - "São Tomé et Príncipe"
     - "Santo Tomé y Príncipe"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
   national_prefix: "0"
@@ -5591,7 +5591,7 @@ ST:
   un_locode: ST
   languages:
     - pt
-SV: 
+SV:
   alpha2: SV
   alpha3: SLV
   country_code: "503"
@@ -5601,12 +5601,12 @@ SV:
   latitude: "13 50 N"
   longitude: "88 55 W"
   name: "El Salvador"
-  names: 
+  names:
     - Salvador
     - "El Salvador"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "222"
@@ -5615,7 +5615,7 @@ SV:
   un_locode: SV
   languages:
     - es
-SY: 
+SY:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5630,14 +5630,14 @@ SY:
   latitude: "35 00 N"
   longitude: "38 00 E"
   name: "Syrian Arab Republic"
-  names: 
+  names:
     - Syria
     - Syrien
     - Syrie
     - Siria
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: "0"
@@ -5647,7 +5647,7 @@ SY:
   un_locode: SY
   languages:
     - ar
-SZ: 
+SZ:
   alpha2: SZ
   alpha3: SWZ
   country_code: "268"
@@ -5657,14 +5657,14 @@ SZ:
   latitude: "26 30 S"
   longitude: "31 30 E"
   name: Swaziland
-  names: 
+  names:
     - Swaziland
     - Swasiland
     - Swaziland
     - Suazilandia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "748"
@@ -5674,24 +5674,24 @@ SZ:
   languages:
     - en
     - ss
-TC: 
+TC:
   alpha2: TC
   alpha3: TCA
   country_code: "1"
   currency: USD
   international_prefix: "011"
-  ioc: 
+  ioc:
   latitude: "21 45 N"
   longitude: "71 35 W"
   name: "Turks and Caicos Islands"
-  names: 
+  names:
     - "Turks and Caicos Islands"
     - "Turks- und Caicosinseln"
     - "Îles Turks et Caïcos"
     - "Islas Turks y Caicos"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "796"
@@ -5700,7 +5700,7 @@ TC:
   un_locode: TC
   languages:
     - en
-TD: 
+TD:
   alpha2: TD
   alpha3: TCD
   country_code: "235"
@@ -5710,13 +5710,13 @@ TD:
   latitude: "15 00 N"
   longitude: "19 00 E"
   name: Chad
-  names: 
+  names:
     - Chad
     - Tschad
     - Tchad
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "148"
@@ -5726,17 +5726,17 @@ TD:
   languages:
     - ar
     - fr
-TF: 
+TF:
   alpha2: TF
   alpha3: ATF
   country_code: ""
   currency: EUR
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: "French Southern Territories"
-  names: 
+  names:
     - "French Southern Territories"
     - "Französische Südgebiete"
     - "Terres Australes Françaises"
@@ -5750,7 +5750,7 @@ TF:
   un_locode:
   languages:
     - fr
-TG: 
+TG:
   alpha2: TG
   alpha3: TGO
   country_code: "228"
@@ -5760,11 +5760,11 @@ TG:
   latitude: "8 00 N"
   longitude: "1 10 E"
   name: Togo
-  names: 
+  names:
     - Togo
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "768"
@@ -5773,7 +5773,7 @@ TG:
   un_locode: TG
   languages:
     - fr
-TH: 
+TH:
   alpha2: TH
   alpha3: THA
   country_code: "66"
@@ -5783,14 +5783,14 @@ TH:
   latitude: "15 00 N"
   longitude: "100 00 E"
   name: Thailand
-  names: 
+  names:
     - Thailand
     - Thailand
     - Thaïlande
     - Tailandia
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
     - 10
   national_prefix: "0"
@@ -5800,7 +5800,7 @@ TH:
   un_locode: TH
   languages:
     - th
-TJ: 
+TJ:
   alpha2: TJ
   alpha3: TJK
   alt_currency: RUB
@@ -5811,14 +5811,14 @@ TJ:
   latitude: "39 00 N"
   longitude: "71 00 E"
   name: Tajikistan
-  names: 
+  names:
     - Tajikistan
     - Tadschikistan
     - Tajikistan
     - Tayikistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "8"
   number: "762"
@@ -5828,24 +5828,24 @@ TJ:
   languages:
     - tg
     - ru
-TK: 
+TK:
   alpha2: TK
   alpha3: TKL
   country_code: "690"
   currency: NZD
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "9 00 S"
   longitude: "172 00 W"
   name: Tokelau
-  names: 
+  names:
     - Tokelau
     - Tokelau
     - "Îles Tokelau"
     - "Islas Tokelau"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 4
   national_prefix: None
   number: "772"
@@ -5854,7 +5854,7 @@ TK:
   un_locode: TK
   languages:
     - en
-TL: 
+TL:
   alpha2: TL
   alpha3: TLS
   country_code: "670"
@@ -5864,14 +5864,14 @@ TL:
   latitude: "8 50 S"
   longitude: "125 55 E"
   name: Timor-Leste
-  names: 
+  names:
     - "East Timor"
     - Ost-Timor
     - "Timor oriental"
     - "Timor Oriental"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "626"
@@ -5890,14 +5890,14 @@ TM:
   latitude: "40 00 N"
   longitude: "60 00 E"
   name: Turkmenistan
-  names: 
+  names:
     - Turkmenistan
     - Turkmenistan
     - Turkménistan
     - Turkmenistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: "8"
   number: "795"
@@ -5907,7 +5907,7 @@ TM:
   languages:
     - tk
     - ru
-TN: 
+TN:
   alpha2: TN
   alpha3: TUN
   country_code: "216"
@@ -5917,14 +5917,14 @@ TN:
   latitude: "34 00 N"
   longitude: "9 00 E"
   name: Tunisia
-  names: 
+  names:
     - Tunisia
     - Tunesien
     - Tunisie
     - Túnez
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
   national_prefix: None
   number: "788"
@@ -5934,7 +5934,7 @@ TN:
   languages:
     - ar
     - fr
-TO: 
+TO:
   alpha2: TO
   alpha3: TON
   country_code: "676"
@@ -5944,11 +5944,11 @@ TO:
   latitude: "20 00 S"
   longitude: "175 00 W"
   name: Tonga
-  names: 
+  names:
     - Tonga
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
     - 6
     - 7
@@ -5960,7 +5960,7 @@ TO:
   languages:
     - en
     - to
-TR: 
+TR:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -5975,14 +5975,14 @@ TR:
   latitude: "39 00 N"
   longitude: "35 00 E"
   name: Turkey
-  names: 
+  names:
     - Turkey
     - Türkei
     - Turquie
     - Turquía
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "792"
@@ -5991,7 +5991,7 @@ TR:
   un_locode: TR
   languages:
     - tr
-TT: 
+TT:
   alpha2: TT
   alpha3: TTO
   country_code: "1"
@@ -6001,14 +6001,14 @@ TT:
   latitude: "11 00 N"
   longitude: "61 00 W"
   name: "Trinidad and Tobago"
-  names: 
+  names:
     - "Trinidad and Tobago"
     - "Trinidad und Tobago"
     - "Trinité et Tobago"
     - "Trinidad y Tobago"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "780"
@@ -6017,7 +6017,7 @@ TT:
   un_locode: TT
   languages:
     - en
-TV: 
+TV:
   alpha2: TV
   alpha3: TUV
   country_code: "688"
@@ -6027,14 +6027,14 @@ TV:
   latitude: "8 00 S"
   longitude: "178 00 E"
   name: Tuvalu
-  names: 
+  names:
     - Tuvalu
     - Tuvalu
     - Tuvalu
     - Tuvalu
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
   national_prefix: None
   number: "798"
@@ -6058,12 +6058,12 @@ TW:
   latitude: "23 30 N"
   longitude: "121 00 E"
   name: "Taiwan, Republic Of China"
-  names: 
+  names:
     - Taiwan
     - Taiwán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: None
@@ -6073,7 +6073,7 @@ TW:
   un_locode: TW
   languages:
     - zh
-TZ: 
+TZ:
   alpha2: TZ
   alpha3: TZA
   country_code: "255"
@@ -6083,13 +6083,13 @@ TZ:
   latitude: "6 00 S"
   longitude: "35 00 E"
   name: "Tanzania, United Republic of"
-  names: 
+  names:
     - Tanzania
     - Tansania
     - Tanzanie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "834"
@@ -6099,7 +6099,7 @@ TZ:
   languages:
     - sw
     - en
-UA: 
+UA:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -6115,14 +6115,14 @@ UA:
   latitude: "49 00 N"
   longitude: "32 00 E"
   name: Ukraine
-  names: 
+  names:
     - Ukraine
     - Ukraine
     - Ukraine
     - Ucrania
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
   national_prefix: "8"
@@ -6132,7 +6132,7 @@ UA:
   un_locode: UA
   languages:
     - uk
-UG: 
+UG:
   alpha2: UG
   alpha3: UGA
   country_code: "256"
@@ -6142,11 +6142,11 @@ UG:
   latitude: "1 00 N"
   longitude: "32 00 E"
   name: Uganda
-  names: 
+  names:
     - Uganda
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "800"
@@ -6156,17 +6156,17 @@ UG:
   languages:
     - en
     - sw
-UM: 
+UM:
   alpha2: UM
   alpha3: UMI
   country_code: ""
   currency: USD
   international_prefix: ""
-  ioc: 
+  ioc:
   latitude: ""
   longitude: ""
   name: "United States Minor Outlying Islands"
-  names: 
+  names:
     - "United States Minor Outlying Islands"
     - "US-Amerikanische Hoheitsgebiete"
     - "Dépendances américaines"
@@ -6180,38 +6180,7 @@ UM:
   un_locode: UM
   languages:
     - en
-US: 
-  address_format: |-
-      {{recipient}}
-      {{street}}
-      {{city}} {{region}} {{postalcode}}
-      {{country}}
-  alpha2: US
-  alpha3: USA
-  country_code: "1"
-  currency: USD
-  international_prefix: "011"
-  ioc: USA
-  latitude: "38 00 N"
-  longitude: "97 00 W"
-  name: "United States"
-  names: 
-    - "United States of America"
-    - "Vereinigte Staaten von Amerika"
-    - États-Unis
-    - "Estados Unidos"
-  national_destination_code_lengths: 
-    - 3
-  national_number_lengths: 
-    - 10
-  national_prefix: "1"
-  number: "840"
-  region: Americas
-  subregion: "Northern America"
-  un_locode: US
-  languages:
-    - en
-UY: 
+UY:
   alpha2: UY
   alpha3: URY
   country_code: "598"
@@ -6221,11 +6190,11 @@ UY:
   latitude: "33 00 S"
   longitude: "56 00 W"
   name: Uruguay
-  names: 
+  names:
     - Uruguay
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
   national_prefix: "0"
@@ -6235,7 +6204,7 @@ UY:
   un_locode: UY
   languages:
     - es
-UZ: 
+UZ:
   alpha2: UZ
   alpha3: UZB
   country_code: "998"
@@ -6245,14 +6214,14 @@ UZ:
   latitude: "41 00 N"
   longitude: "64 00 E"
   name: Uzbekistan
-  names: 
+  names:
     - Uzbekistan
     - Usbekistan
     - Ouzbékistan
     - Uzbekistán
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "8"
   number: "860"
@@ -6262,24 +6231,24 @@ UZ:
   languages:
     - uz
     - ru
-VA: 
+VA:
   alpha2: VA
   alpha3: VAT
   country_code: "39"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "41 54 N"
   longitude: "12 27 E"
   name: "Holy See (Vatican City State)"
-  names: 
+  names:
     - "Vatican City"
     - Vatikan
     - "Cité du Vatican"
     - "Ciudad del Vaticano"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: None
   number: "336"
@@ -6289,7 +6258,7 @@ VA:
   languages:
     - it
     - la
-VC: 
+VC:
   alpha2: VC
   alpha3: VCT
   country_code: "1"
@@ -6299,14 +6268,14 @@ VC:
   latitude: "13 15 N"
   longitude: "61 12 W"
   name: "Saint Vincent And The Grenedines"
-  names: 
+  names:
     - "Saint Vincent and the Grenadines"
     - "Saint Vincent und die Grenadinen"
     - "Saint-Vincent et les Grenadines"
     - "San Vicente y Granadinas"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "670"
@@ -6315,7 +6284,7 @@ VC:
   un_locode: VC
   languages:
     - en
-VE: 
+VE:
   alpha2: VE
   alpha3: VEN
   country_code: "58"
@@ -6325,11 +6294,11 @@ VE:
   latitude: "8 00 N"
   longitude: "66 00 W"
   name: "Venezuela, Bolivarian Republic of"
-  names: 
+  names:
     - Venezuela
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "0"
   number: "862"
@@ -6338,7 +6307,7 @@ VE:
   un_locode: VE
   languages:
     - es
-VG: 
+VG:
   alpha2: VG
   alpha3: VGB
   country_code: "1"
@@ -6348,14 +6317,14 @@ VG:
   latitude: ""
   longitude: ""
   name: "Virgin Islands, British"
-  names: 
+  names:
     - "British Virgin Islands"
     - "Britische Jungferninseln"
     - "Îles Vierges britanniques"
     - "Islas Vírgenes del Reino Unido"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: 092
@@ -6364,7 +6333,7 @@ VG:
   un_locode: VG
   languages:
     - en
-VI: 
+VI:
   alpha2: VI
   alpha3: VIR
   country_code: "1"
@@ -6374,14 +6343,14 @@ VI:
   latitude: ""
   longitude: ""
   name: "Virgin Islands, U.S."
-  names: 
+  names:
     - "Virgin Islands of the United States"
     - "Amerikanische Jungferninseln"
     - "Îles Vierges américaines"
     - "Islas Vírgenes de los Estados Unidos"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 3
-  national_number_lengths: 
+  national_number_lengths:
     - 10
   national_prefix: "1"
   number: "850"
@@ -6390,7 +6359,7 @@ VI:
   un_locode: VI
   languages:
     - en
-VN: 
+VN:
   alpha2: VN
   alpha3: VNM
   country_code: "84"
@@ -6400,11 +6369,11 @@ VN:
   latitude: "16 10 N"
   longitude: "107 50 E"
   name: "Viet Nam"
-  names: 
+  names:
     - Vietnam
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -6416,7 +6385,7 @@ VN:
   un_locode: VN
   languages:
     - vi
-VU: 
+VU:
   alpha2: VU
   alpha3: VUT
   country_code: "678"
@@ -6426,11 +6395,11 @@ VU:
   latitude: "16 00 S"
   longitude: "167 00 E"
   name: Vanuatu
-  names: 
+  names:
     - Vanuatu
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 5
     - 6
     - 7
@@ -6443,24 +6412,24 @@ VU:
     - bi
     - en
     - fr
-WF: 
+WF:
   alpha2: WF
   alpha3: WLF
   country_code: "681"
   currency: XPF
   international_prefix: "19"
-  ioc: 
+  ioc:
   latitude: "13 18 S"
   longitude: "176 12 W"
   name: "Wallis and Futuna"
-  names: 
+  names:
     - "Wallis and Futuna"
     - "Wallis und Futuna"
     - "Wallis et Futuna"
     - "Wallis y Futuna"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
   national_prefix: None
   number: "876"
@@ -6469,7 +6438,7 @@ WF:
   un_locode: WF
   languages:
     - fr
-WS: 
+WS:
   alpha2: WS
   alpha3: WSM
   country_code: "685"
@@ -6479,11 +6448,11 @@ WS:
   latitude: "13 35 S"
   longitude: "172 20 W"
   name: Samoa
-  names: 
+  names:
     - Samoa
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 6
     - 7
   national_prefix: None
@@ -6494,7 +6463,7 @@ WS:
   languages:
     - sm
     - en
-YE: 
+YE:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -6509,13 +6478,13 @@ YE:
   latitude: "15 00 N"
   longitude: "48 00 E"
   name: Yemen
-  names: 
+  names:
     - Yemen
     - Jemen
     - Yémen
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
     - 8
     - 9
@@ -6526,24 +6495,24 @@ YE:
   un_locode: YE
   languages:
     - ar
-YT: 
+YT:
   alpha2: YT
   alpha3: MYT
   country_code: "269"
   currency: EUR
   international_prefix: "00"
-  ioc: 
+  ioc:
   latitude: "12 50 S"
   longitude: "45 10 E"
   name: Mayotte
-  names: 
+  names:
     - Mayotte
     - Mayotte
     - Mayotte
     - Mayotte
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 7
   national_prefix: None
   number: "175"
@@ -6552,7 +6521,7 @@ YT:
   un_locode: YT
   languages:
     - fr
-ZA: 
+ZA:
   address_format: |-
       {{recipient}}
       {{street}}
@@ -6569,14 +6538,14 @@ ZA:
   latitude: "29 00 S"
   longitude: "24 00 E"
   name: "South Africa"
-  names: 
+  names:
     - "South Africa"
     - "Republik Südafrika"
     - "Afrique du Sud"
     - "República de Sudáfrica"
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "710"
@@ -6594,7 +6563,7 @@ ZA:
     - ve
     - xh
     - zu
-ZM: 
+ZM:
   alpha2: ZM
   alpha3: ZMB
   country_code: "260"
@@ -6604,13 +6573,13 @@ ZM:
   latitude: "15 00 S"
   longitude: "30 00 E"
   name: Zambia
-  names: 
+  names:
     - Zambia
     - Sambia
     - Zambie
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 9
   national_prefix: "0"
   number: "894"
@@ -6619,7 +6588,7 @@ ZM:
   un_locode: ZM
   languages:
     - en
-ZW: 
+ZW:
   alpha2: ZW
   alpha3: ZWE
   country_code: "263"
@@ -6629,13 +6598,13 @@ ZW:
   latitude: "20 00 S"
   longitude: "30 00 E"
   name: Zimbabwe
-  names: 
+  names:
     - Zimbabwe
     - Simbabwe
     - Zimbabue
-  national_destination_code_lengths: 
+  national_destination_code_lengths:
     - 2
-  national_number_lengths: 
+  national_number_lengths:
     - 8
     - 9
     - 10

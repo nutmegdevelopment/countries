@@ -7,7 +7,8 @@ module ActionView
         InstanceTag.new(object, method, self, options.delete(:object)).to_country_select_tag(priority_countries, options, html_options)
       end
 
-      def country_options_for_select(selected = nil, priority_countries = nil)
+      def country_options_for_select(selected = nil, priority_countries = nil, reject: ['USA'])
+        country_names = ISO3166::Country::Alpha3_Names.reject { |country| country[1].in? reject }
         country_options = "".html_safe
 
         if priority_countries
@@ -16,7 +17,7 @@ module ActionView
           country_options += "<option value=\"\" disabled=\"disabled\">-------------</option>\n"
         end
 
-        return country_options + options_for_select(ISO3166::Country::Alpha3_Names, selected)
+        return country_options + options_for_select(country_names, selected)
       end
     end
 
